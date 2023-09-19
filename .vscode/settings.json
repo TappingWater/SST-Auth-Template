@@ -1,0 +1,11 @@
+{
+  "search.exclude": {
+    "**/.sst": true
+  },
+  "cSpell.words": [
+    "hookform",
+    "lucide",
+    "shadcn",
+    "tailwindcss"
+  ]
+}
